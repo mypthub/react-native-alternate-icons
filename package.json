@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamsteegsoftware/react-native-alternate-icons.git"
+    "url": "git+https://github.com/mypthub/react-native-alternate-icons.git"
   },
   "keywords": [
     "react-component",
@@ -22,7 +22,7 @@
   "author": "Joey Kamsteeg <joey@kamsteegsoftware.nl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kamsteegsoftware/react-native-alternate-icons/issues"
+    "url": "https://github.com/mypthub/react-native-alternate-icons/issues"
   },
-  "homepage": "https://github.com/kamsteegsoftware/react-native-alternate-icons#readme"
+  "homepage": "https://github.com/mypthub/react-native-alternate-icons#readme"
 }
